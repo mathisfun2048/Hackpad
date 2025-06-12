@@ -56,7 +56,7 @@ There will be more features later! This was just an intro to get my hackpad runn
 # BOM
 Here's the official Arya-pad partlist!
 
-- 9x Cherry MX Switches (preferably brown :3 )
+- 9x MX-Style Switches (preferably brown :3 )
 - 9x DSA Blank White Keycaps
 - 1x EC11 rotary encoder w/ push switch
 - 10x 1N4148 signal diodes
