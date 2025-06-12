@@ -1,6 +1,79 @@
-# HtU_Project_1_Hackpad
-highway to undercity project 1, macropad
+# Arya's Hackpad Macropad!
 
-My design utalizes 9 switches, 9 LEDs, 1 rotary, and 1 0.91 inch OLED Display
+This 9-key macropad also includes a 3x3 led aray, rotary encoder, and an OLED display. It uses KMK Firmware (learning the python library was fun!) This is my first time working with PCB so it was a fun expeirment!
 
-This is my first time working with PCB so it was a fun expeirment!
+I designed this to help me with photoshop, illustrator, and indesign! I also saw some cool bitmap-pattern led machines at Ikea and wanted to emulate them using a LED array. 
+
+# Features:
+- top and bottom parts for the case
+- XIAO‑RP2040 as the processor
+- 128x32 OLED display
+- 3x3 LED array
+- 3x3 switch array
+- Rotary encoder to switch between key-map layers and bitmap patterns
+- 9 Diodes to help with having a lot of inputs with a limited number of GPIO ports
+- KMK code!
+- made with my sweat and tears :D
+
+# CAD Model
+
+Everything fits together using 4 M3 × 16 mm pan-head screws; it will go through the case and pcb.
+
+This has 2 seperate printed pieces, sandwiching the PCB. 
+
+This was made using Autodesk Fusion!
+
+<img width="1433" alt="Screenshot 2025-06-12 at 12 26 53 AM" src="https://github.com/user-attachments/assets/d73ee25c-7734-4533-b3ad-d5efd2bba7f3" />
+_screenshot of your overall hackpad and of your case and how it'll fit together_
+
+Fusion wasn't importing the screws, switches/keycaps, rotary, or oled, or LEDs :( but the schematics down below will better illustrate where they are supposed to be :)
+
+# Schematic
+
+Here is a picture of the Schematic! This was my first interaction with anything hardware so it dosn't look exactly like my final board but it was so so fun to make this! 
+
+<img width="997" alt="Screenshot 2025-06-12 at 12 30 19 AM" src="https://github.com/user-attachments/assets/1260159e-466b-4ae3-bb2c-9da14434cadd" />
+_screenshot of your schematic_
+
+# PCB
+
+Now the real thing! It was definelty more challenging to do this than the schematic because this was for real! It was definetly a processes learning that how I made my schematic wouldn't nessicarily be how it would look in the end product, but fiddeling around with it was fun. I was super into graphic design before and this was a fun application of those skills, merging art with hardware!
+
+<img width="475" alt="Screenshot 2025-06-12 at 12 32 29 AM" src="https://github.com/user-attachments/assets/bce588f4-4461-4b1b-b351-50b1fadb303f" />
+_screenshot of your PCB_
+
+# Firmware
+
+This hackpad uses KMK firmware!
+
+Some features:
+
+- theres a different map for each application which the encoder can rotate between!
+- there is 2 modes: layer mode and bitmap mode-- the layer mode allows it to work like a macropad while in bitmap mode the enocder rotates between different pattenrs for the LED array
+
+There will be more features later! This was just an intro to get my hackpad running. very cool stuff indeed
+
+# BOM
+Here's the official Arya-pad partlist!
+
+- 9x Cherry MX Switches (preferably blue :3 )
+- 9x DSA Blank White Keycaps
+- 1x EC11 rotary encoder w/ push switch
+- 10x 1N4148 signal diodes
+- 9x SK6812 MINI-E RGB LEDs
+- 1x 0.91 in 128 × 32 OLED Pannel
+- 1x Seeed XIAO RP2040
+- 1x Case (2 printed parts)
+- 4x M3 × 16 mm pan-head screws
+
+# Fun Facts
+This was a really fun build! I spent 3ish weeks working on it, spreading it out so I can learn the most from it! As I said before, this was my first experience with hardware design but this project has made me really excited about what I can build on my own. 
+
+
+
+
+
+
+
+
+
