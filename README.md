@@ -70,10 +70,20 @@ Here's the official Arya-pad partlist!
 This was a really fun build! I spent 3ish weeks working on it, spreading it out so I can learn the most from it! As I said before, this was my first experience with hardware design but this project has made me really excited about what I can build on my own. 
 
 
+# Build Journal 6ish hours
+
+This was my first hardware design project and it was a ton of fun learning how to solder! Bellow, I have attached some snapshots through my build journey. 
+
+![IMG_5028](https://github.com/user-attachments/assets/a89b004a-74da-410a-9cb6-66f71fbf4c70)
+
+![IMG_5018](https://github.com/user-attachments/assets/91a2a374-d064-42a6-bb38-2736b0300f4f)
+
+![IMG_5029](https://github.com/user-attachments/assets/cca5f109-3c17-4af8-832f-f62dfd37cd1b)
 
 
+![IMG_5012](https://github.com/user-attachments/assets/a1fff8b3-28f7-4f0a-9221-e8ebec3fd485)
 
-
-
-
+![IMG_5013](https://github.com/user-attachments/assets/8a6bfd2b-48ce-402c-![IMG_5058](https://github.com/user-attachments/assets/dd8e9a42-585f-498f-82bb-7e9cf0de07d7)
+8bdf-4c33d4b0655e)
+![IMG_5061](https://github.com/user-attachments/assets/b97e60c6-6bf8-45cc-a67a-0ea558268207)
 
